@@ -1,4 +1,4 @@
-### Hi there 👋 \
+### Hi there 👋 
 \
 My name is Ariana. \
 I'm currently taking an AI and Data Science course at BeCode. \
