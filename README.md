@@ -1,9 +1,10 @@
-### Hi there 👋
-
-My name is Ariana.
-I'm currently taking an AI and Data Science course at BeCode.
-You can reach me at bik.ariana.1996@gmail.com
-My LinkedIn is https://www.linkedin.com/in/ariana-bik-62213a107/
+### Hi there 👋\
+\
+My name is Ariana. \
+I'm currently taking an AI and Data Science course at BeCode. \
+You can reach me at bik.ariana.1996@gmail.com \
+My LinkedIn is https://www.linkedin.com/in/ariana-bik-62213a107/ \
+You can find my Tableau dashoboards at https://public.tableau.com/app/profile/ariana.bik
 <!--
 **ArianaBik96/ArianaBik96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
